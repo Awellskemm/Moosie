@@ -1,0 +1,13 @@
+ul{
+    list-style:none; 
+    margin:0; 
+    padding:0;
+}
+body{
+    font-family: Verdana
+}
+li{
+   display: inline; 
+   padding:5px;
+   margin:30px
+}
